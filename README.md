@@ -8,5 +8,5 @@ Matlab vizualization of interpolation methods. Estimating integrals via the comp
 - Project 3: Efficient Matrix Solvers
 Iterative Jacobi, Gauss-Seidel, Richardson, CG and GMRES methods on large matrix systems with and without preconditioner. Various preconditioners considered.
 
-- Project 4: Advanced Preconditioning in PDE}
+- Project 4: Advanced Preconditioning in PDE
 Advanced preconditioners applied in a finite difference method for a schrodinger equation.
